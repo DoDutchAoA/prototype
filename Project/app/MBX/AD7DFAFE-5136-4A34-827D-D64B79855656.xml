@@ -1,0 +1,83 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="AD7DFAFE-5136-4A34-827D-D64B79855656" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="8">
+    <control controlID="EF6FC0FD-A6CD-4287-B51A-955164B676DB" controlTypeID="__group__" x="0" y="0" w="375" h="50" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="4B675EDA-9A5A-4793-B8AF-038E935F7EEF" controlTypeID="Shape" x="0" y="4" w="375" h="44" zOrder="0">
+          <borderColor>4293190884</borderColor>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <borderMode>[bmBottom]</borderMode>
+        </control>
+        <control controlID="80DB36E2-B932-4B88-BF08-67404AD98E8A" controlTypeID="Label" x="141" y="0" w="91" h="50" zOrder="1">
+          <font family="Segoe+Print" displayName="Segoe+Print_%26_Italic" postScript="" weightStyle="Italic" weight="400" isBold="False" isItalic="True" useDefaultFontFamily="False"/>
+          <text>Group</text>
+          <textSize>28</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsItalic]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="C34D49A1-1AB5-4BC5-8EC0-F5CBD671AFEF" controlTypeID="__group__" x="0" y="576" w="375" h="91" zOrder="1">
+      <caption>toolbar</caption>
+      <groupChildrenDescriptors>
+        <control controlID="736D4C6B-1EA3-456D-85EA-E6D72864E959" controlTypeID="Shape" x="0" y="0" w="375" h="91" zOrder="0">
+          <borderColor>4293190884</borderColor>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <borderMode>[bmTop]</borderMode>
+        </control>
+        <control controlID="E0A9B127-87D6-4F14-924F-932B1C06F761" controlTypeID="Icon" x="39" y="26" w="55" h="55" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="BCE70EF7-EE90-44A2-9C05-02281F70D861" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+              <area shape="0" alt="" ID="{7ED95893-1E5E-4B34-99A5-9EA0EDB0882B}" coords="(0,0,55,55)"/>
+            </link>
+          </links>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62535</iconCode>
+          </icon>
+          <URL>CF75DBB601952B6BB4B151C544C1D2C8.svg</URL>
+        </control>
+        <control controlID="B0AC5E91-1B14-4866-9EA8-7E3874E958FC" controlTypeID="Icon" x="276" y="26" w="55" h="55" zOrder="2">
+          <color>4278216447</color>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="AD7DFAFE-5136-4A34-827D-D64B79855656" linkType="ltPageLink" isApplyIncludePage="False" title="group">
+              <area shape="0" alt="" ID="{2FF0E1E5-377F-41A5-B231-180ED6764EF8}" coords="(0,0,55,55)"/>
+            </link>
+          </links>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62457</iconCode>
+          </icon>
+          <URL>37CEF910808B6C671496C3CA3DF0A1A0.svg</URL>
+        </control>
+        <control controlID="503E96DC-B61D-49A0-B999-8D33522A70C2" controlTypeID="Icon" x="160" y="26" w="55" h="55" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="0A03076C-E11C-4A94-9194-06BB9A6E7597" linkType="ltPageLink" isApplyIncludePage="False" title="friend">
+              <area shape="0" alt="" ID="{8B9DEC61-8ADB-4A2A-B491-05F7ACB35E0F}" coords="(0,0,55,55)"/>
+            </link>
+          </links>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62587</iconCode>
+          </icon>
+          <URL>9E2074E408AE2704CDB7EA51B170AFB8.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

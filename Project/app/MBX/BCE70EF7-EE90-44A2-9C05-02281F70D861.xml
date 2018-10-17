@@ -8,7 +8,7 @@
       </links>
       <groupChildrenDescriptors>
         <control controlID="AB159E28-2DE3-4C06-A132-38D70F658440" controlTypeID="Circle" x="0" y="0" w="116" h="120" zOrder="0">
-          <color>4291585689</color>
+          <color>4288243455</color>
           <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textSize>14</textSize>
           <selectedIndex>-1</selectedIndex>
@@ -152,10 +152,12 @@
       <caption>find+friend</caption>
       <groupChildrenDescriptors>
         <control controlID="020BBFA7-ADA0-44C8-9347-3943F50CA270" controlTypeID="TextInput" x="0" y="0" w="189" h="43" zOrder="0">
+          <opacity>0.300000011920929</opacity>
           <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <text>Search+Your+Friends...</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
+          <radius>8</radius>
         </control>
         <control controlID="0E8BEF85-D8A9-4165-BF06-744E03130329" controlTypeID="Icon" x="189" y="3" w="37" h="37" zOrder="1">
           <icon>
@@ -192,6 +194,11 @@
           <URL>CF75DBB601952B6BB4B151C544C1D2C8.svg</URL>
         </control>
         <control controlID="BC920A65-7192-4F20-BB16-9157E255E78A" controlTypeID="Icon" x="276" y="26" w="55" h="55" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="AD7DFAFE-5136-4A34-827D-D64B79855656" linkType="ltPageLink" isApplyIncludePage="False" title="group">
+              <area shape="0" alt="" ID="{F53EF761-8F34-41A4-8C97-6D18A69585E1}" coords="(0,0,55,55)"/>
+            </link>
+          </links>
           <icon>
             <ID/>
             <iconFontName>jdIonicons</iconFontName>
@@ -200,6 +207,11 @@
           <URL>37CEF910808B6C671496C3CA3DF0A1A0.svg</URL>
         </control>
         <control controlID="15CD9471-D8B2-44EB-9B09-85533AF5E567" controlTypeID="Icon" x="160" y="26" w="55" h="55" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="0A03076C-E11C-4A94-9194-06BB9A6E7597" linkType="ltPageLink" isApplyIncludePage="False" title="friend">
+              <area shape="0" alt="" ID="{56C609B9-72C2-47E4-A267-FE0523124CC4}" coords="(0,0,55,55)"/>
+            </link>
+          </links>
           <icon>
             <ID/>
             <iconFontName>jdIonicons</iconFontName>

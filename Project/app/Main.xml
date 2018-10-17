@@ -7,7 +7,7 @@
   </params>
   <pages>
     <page name="start" ID="F550F1E1-DB8A-492C-8497-D5DD4FC64EE4" expanded="False" code="NP5XaJxQdQ" thumbCode="NP5XaJxQdQ" status="psWhite" isfolder="False" isshownode="True"/>
-    <page name="Home" ID="BCE70EF7-EE90-44A2-9C05-02281F70D861" expanded="True" code="K9CGf5gZtn" thumbCode="K9CGf5gZtn" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Home" ID="BCE70EF7-EE90-44A2-9C05-02281F70D861" expanded="True" code="eOy5mUq7ha" thumbCode="eOy5mUq7ha" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
         <image key="4316E1C307CC30565C10942536930CD7.svg"/>
@@ -29,7 +29,7 @@
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
       </images>
     </page>
-    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="False" code="L618SHIlWx" thumbCode="L618SHIlWx" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="False" code="L618SHIlWx" thumbCode="L618SHIlWx" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
         <image key="2F6462E54FB03278404C95A7DA8E3B6F.svg"/>
@@ -41,6 +41,20 @@
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
         <image key="AD0532FDE655DB21446BDCFDA21B5C6E.svg"/>
         <image key="D0C064FF6802AB527BCBD865CE47616F.svg"/>
+      </images>
+    </page>
+    <page name="friend" ID="0A03076C-E11C-4A94-9194-06BB9A6E7597" expanded="True" code="sG4jfRQkgx" thumbCode="sG4jfRQkgx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+        <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
+        <image key="9E2074E408AE2704CDB7EA51B170AFB8.svg"/>
+      </images>
+    </page>
+    <page name="group" ID="AD7DFAFE-5136-4A34-827D-D64B79855656" expanded="False" code="SXsQzbqe74" thumbCode="HbQiGIXzb1" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+        <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
+        <image key="9E2074E408AE2704CDB7EA51B170AFB8.svg"/>
       </images>
     </page>
   </pages>
