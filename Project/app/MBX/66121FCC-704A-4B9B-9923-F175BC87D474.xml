@@ -1,0 +1,66 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="66121FCC-704A-4B9B-9923-F175BC87D474" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="17">
+    <control controlID="0D9E2784-F67F-4015-8FDC-9B1891D0ED90" controlTypeID="__group__" x="0" y="0" w="375" h="50" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="5BF8E55A-AD1E-432D-A23C-E90A7E68918A" controlTypeID="Shape" x="0" y="4" w="375" h="44" zOrder="0">
+          <borderColor>4293190884</borderColor>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <borderMode>[bmBottom]</borderMode>
+        </control>
+        <control controlID="BAD9325B-912D-419B-A06E-F1F6F9CCFA68" controlTypeID="Label" x="139" y="0" w="96" h="50" zOrder="1">
+          <font family="Segoe+Print" displayName="Segoe+Print_%26_Italic" postScript="" weightStyle="Italic" weight="400" isBold="False" isItalic="True" useDefaultFontFamily="False"/>
+          <text>Album</text>
+          <textSize>28</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsItalic]</textStyles>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="394E6521-825F-43AA-BF0E-DEFF37BD2D8C" controlTypeID="__group__" x="0" y="60" w="375" h="49" zOrder="1">
+      <caption>back%26home</caption>
+      <groupChildrenDescriptors>
+        <control controlID="9ECDA23C-9566-485D-A961-B787BDAD1D83" controlTypeID="Shape" x="0" y="0" w="375" h="49" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F695C200-7B35-4256-901B-BC20F3CA30D4" controlTypeID="Icon" x="10" y="8" w="31" h="31" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="BCE70EF7-EE90-44A2-9C05-02281F70D861" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+              <area shape="0" alt="" ID="{4BBD6C36-1961-472C-92DA-009607A74283}" coords="(0,0,31,31)"/>
+            </link>
+          </links>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62415</iconCode>
+          </icon>
+          <URL>D6859759E093AABA6D618DD6AA733504.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="DBB6E511-FA85-4BE9-B638-3C14494A0E42" controlTypeID="Image" x="0" y="114" w="125" h="125" zOrder="2"/>
+    <control controlID="5BF11D74-1D75-464D-A952-89F76694E31B" controlTypeID="Image" x="125" y="114" w="125" h="125" zOrder="3"/>
+    <control controlID="53ADAF58-3F67-4724-B978-079D14493AD6" controlTypeID="Image" x="250" y="114" w="125" h="125" zOrder="4"/>
+    <control controlID="BF06D293-6E7A-4C21-AEA4-CF49618B9C83" controlTypeID="Image" x="0" y="239" w="125" h="125" zOrder="5"/>
+    <control controlID="F57EFFC0-A389-4488-A134-B7637284815B" controlTypeID="Image" x="125" y="239" w="125" h="125" zOrder="6"/>
+    <control controlID="C72D24EF-E0D0-4108-8E75-A9FA43B26425" controlTypeID="Image" x="250" y="239" w="125" h="125" zOrder="7"/>
+    <control controlID="EE68EEEF-B946-4577-B96D-CF9A8BB63038" controlTypeID="Image" x="0" y="364" w="125" h="125" zOrder="8"/>
+    <control controlID="3C5B8B4E-E239-4788-AAAE-713324B42062" controlTypeID="Image" x="125" y="364" w="125" h="125" zOrder="9"/>
+    <control controlID="D8ED88DF-F00A-41FB-9FB2-591492349140" controlTypeID="Image" x="250" y="364" w="125" h="125" zOrder="10"/>
+    <control controlID="991656E9-B8DF-486A-8A7C-19A586C4F018" controlTypeID="Image" x="0" y="489" w="125" h="125" zOrder="11"/>
+    <control controlID="8C9AAC79-292B-4E99-93D8-01232B6F5ECF" controlTypeID="Image" x="125" y="489" w="125" h="125" zOrder="12"/>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

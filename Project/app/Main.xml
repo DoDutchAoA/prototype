@@ -1,0 +1,53 @@
+﻿<project version="2.9" name="Project" ID="B4D248E2-92C7-41B0-BE85-843D274CF075">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="start" ID="F550F1E1-DB8A-492C-8497-D5DD4FC64EE4" expanded="False" code="NP5XaJxQdQ" thumbCode="NP5XaJxQdQ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Home" ID="BCE70EF7-EE90-44A2-9C05-02281F70D861" expanded="True" code="waB1CgZNDd" thumbCode="waB1CgZNDd" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
+        <image key="C7D1B4CE058A7FC0691E8FF41CC36AD9.svg"/>
+        <image key="CB1D4BD70EFAF9D0D63B9D0659D62AAA.svg"/>
+        <image key="DC456CCD4FF5E71E295D9D11FEDA541E.svg"/>
+        <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+        <image key="EB8BAC216DC648260F1AB39C708E2697.svg"/>
+      </images>
+    </page>
+    <page name="camera" ID="F5312AEB-8D14-4D2C-8632-1DDA662296F0" expanded="True" code="U6wNbtg1Nj" thumbCode="U6wNbtg1Nj" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7AC164280B19D47643789AAACFA23494.svg"/>
+      </images>
+    </page>
+    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="True" code="Iv52P2lquQ" thumbCode="Iv52P2lquQ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+        <image key="2F6462E54FB03278404C95A7DA8E3B6F.svg"/>
+      </images>
+    </page>
+    <page name="album" ID="66121FCC-704A-4B9B-9923-F175BC87D474" expanded="True" code="zdaQym9ays" thumbCode="RLdg4wisDG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Page1" ID="D71CE79B-15EF-4097-AE1D-133057D9E705" expanded="False" code="QzAQkDQHke" thumbCode="IYZc9sDbYE" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
+    <image key="CB1D4BD70EFAF9D0D63B9D0659D62AAA.svg"/>
+    <image key="2F6462E54FB03278404C95A7DA8E3B6F.svg"/>
+    <image key="C7D1B4CE058A7FC0691E8FF41CC36AD9.svg"/>
+    <image key="7AC164280B19D47643789AAACFA23494.svg"/>
+    <image key="DC456CCD4FF5E71E295D9D11FEDA541E.svg"/>
+    <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+    <image key="EB8BAC216DC648260F1AB39C708E2697.svg"/>
+    <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+  </images>
+</project>
