@@ -49,6 +49,11 @@
     <control controlID="09201F59-6F6D-48FE-840E-A6C8A2C639D8" controlTypeID="Image" x="86" y="177" w="205" h="204" zOrder="2"/>
     <control controlID="AD85F3CA-319B-4251-836B-41B6418DC0C3" controlTypeID="__group__" x="114" y="412" w="149" h="62" zOrder="3">
       <caption>upload</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BCE70EF7-EE90-44A2-9C05-02281F70D861" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{3DD422DB-10F4-4C2A-99B0-4231E6D72F40}" coords="(0,0,149,62)"/>
+        </link>
+      </links>
       <groupChildrenDescriptors>
         <control controlID="8AF4F1A5-B914-43DD-8658-89D1673EA8B7" controlTypeID="Button" x="0" y="0" w="149" h="62" zOrder="0">
           <color>4282418682</color>

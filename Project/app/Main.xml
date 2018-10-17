@@ -7,7 +7,7 @@
   </params>
   <pages>
     <page name="start" ID="F550F1E1-DB8A-492C-8497-D5DD4FC64EE4" expanded="False" code="NP5XaJxQdQ" thumbCode="NP5XaJxQdQ" status="psWhite" isfolder="False" isshownode="True"/>
-    <page name="Home" ID="BCE70EF7-EE90-44A2-9C05-02281F70D861" expanded="True" code="R7k4mI6BOB" thumbCode="2ewRFa6qCK" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="Home" ID="BCE70EF7-EE90-44A2-9C05-02281F70D861" expanded="True" code="K9CGf5gZtn" thumbCode="K9CGf5gZtn" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
         <image key="4316E1C307CC30565C10942536930CD7.svg"/>
@@ -19,20 +19,28 @@
         <image key="9E2074E408AE2704CDB7EA51B170AFB8.svg"/>
       </images>
     </page>
-    <page name="camera" ID="F5312AEB-8D14-4D2C-8632-1DDA662296F0" expanded="True" code="U6wNbtg1Nj" thumbCode="U6wNbtg1Nj" status="psWhite" isfolder="False" isshownode="True">
+    <page name="camera" ID="F5312AEB-8D14-4D2C-8632-1DDA662296F0" expanded="False" code="MIsxHGSRHL" thumbCode="mU5LssLX48" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="7AC164280B19D47643789AAACFA23494.svg"/>
       </images>
     </page>
-    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="True" code="VQFwKSpzJF" thumbCode="VQFwKSpzJF" status="psWhite" isfolder="False" isshownode="True">
+    <page name="album" ID="66121FCC-704A-4B9B-9923-F175BC87D474" expanded="True" code="duSq3e4Wph" thumbCode="duSq3e4Wph" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+      </images>
+    </page>
+    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="False" code="L618SHIlWx" thumbCode="L618SHIlWx" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
         <image key="2F6462E54FB03278404C95A7DA8E3B6F.svg"/>
       </images>
     </page>
-    <page name="album" ID="66121FCC-704A-4B9B-9923-F175BC87D474" expanded="True" code="NvVtEYcN5b" thumbCode="NvVtEYcN5b" status="psWhite" isfolder="False" isshownode="True">
+    <page name="receipt" ID="5A943012-77EB-4878-9C75-BD9A86A98B1A" expanded="True" code="o6YfroT8SM" thumbCode="o6YfroT8SM" status="psWhite" isfolder="False" isshownode="True">
       <images>
+        <image key="595E1255DAF19DC363A0A81AB4CC11E1.svg"/>
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+        <image key="AD0532FDE655DB21446BDCFDA21B5C6E.svg"/>
+        <image key="D0C064FF6802AB527BCBD865CE47616F.svg"/>
       </images>
     </page>
   </pages>
@@ -45,12 +53,15 @@
     <image key="A6FBF34563F171D2F9FF132D1B656C64.svg"/>
     <image key="2F6462E54FB03278404C95A7DA8E3B6F.svg"/>
     <image key="4316E1C307CC30565C10942536930CD7.svg"/>
-    <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
     <image key="C7D1B4CE058A7FC0691E8FF41CC36AD9.svg"/>
-    <image key="7AC164280B19D47643789AAACFA23494.svg"/>
-    <image key="DC456CCD4FF5E71E295D9D11FEDA541E.svg"/>
-    <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+    <image key="595E1255DAF19DC363A0A81AB4CC11E1.svg"/>
     <image key="784D3084F9C2AFEEB7C71AAC6A2AAEE8.svg"/>
+    <image key="D0C064FF6802AB527BCBD865CE47616F.svg"/>
+    <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
+    <image key="7AC164280B19D47643789AAACFA23494.svg"/>
+    <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+    <image key="AD0532FDE655DB21446BDCFDA21B5C6E.svg"/>
+    <image key="DC456CCD4FF5E71E295D9D11FEDA541E.svg"/>
     <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
     <image key="9E2074E408AE2704CDB7EA51B170AFB8.svg"/>
   </images>

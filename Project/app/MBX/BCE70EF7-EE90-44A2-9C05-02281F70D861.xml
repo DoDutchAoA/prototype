@@ -28,7 +28,7 @@
     <control controlID="28E2A70C-ABA5-4452-A0EF-11E5A25E0E8E" controlTypeID="ScrollView" x="0" y="210" w="375" h="168" zOrder="1">
       <borderColor>4294967295</borderColor>
       <groupChildrenDescriptors>
-        <control controlID="5EA6ED02-CA27-43A0-9E0F-49C840ED666B" controlTypeID="ScrollViewContentPanel" x="-212" y="0" w="585" h="300" zOrder="0">
+        <control controlID="5EA6ED02-CA27-43A0-9E0F-49C840ED666B" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="585" h="300" zOrder="0">
           <alias>contentPanel</alias>
           <groupChildrenDescriptors>
             <control controlID="AB8B68FA-66E7-44B3-ACB2-04CA04E43A99" controlTypeID="Shape" x="10" y="30" w="173" h="120" zOrder="0">
@@ -51,6 +51,11 @@
               <color>4294934178</color>
               <borderColor>4278190080</borderColor>
               <borderVisible>False</borderVisible>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="5A943012-77EB-4878-9C75-BD9A86A98B1A" linkType="ltPageLink" isApplyIncludePage="False" title="receipt">
+                  <area shape="0" alt="" ID="{B35413C7-7A61-421B-8737-93C60A620343}" coords="(0,0,165,120)"/>
+                </link>
+              </links>
               <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
               <textSize>14</textSize>
               <selectedIndex>-1</selectedIndex>
@@ -150,6 +155,7 @@
           <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <text>Search+Your+Friends...</text>
           <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
         </control>
         <control controlID="0E8BEF85-D8A9-4165-BF06-744E03130329" controlTypeID="Icon" x="189" y="3" w="37" h="37" zOrder="1">
           <icon>
@@ -168,6 +174,7 @@
           <borderColor>4293190884</borderColor>
           <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
           <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
           <borderMode>[bmTop]</borderMode>
         </control>
         <control controlID="DDC6E5DF-0EBA-4399-BDD4-7EDFE56E88C4" controlTypeID="Icon" x="39" y="26" w="55" h="55" zOrder="1">
