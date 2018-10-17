@@ -45,17 +45,83 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="DBB6E511-FA85-4BE9-B638-3C14494A0E42" controlTypeID="Image" x="0" y="114" w="125" h="125" zOrder="2"/>
-    <control controlID="5BF11D74-1D75-464D-A952-89F76694E31B" controlTypeID="Image" x="125" y="114" w="125" h="125" zOrder="3"/>
-    <control controlID="53ADAF58-3F67-4724-B978-079D14493AD6" controlTypeID="Image" x="250" y="114" w="125" h="125" zOrder="4"/>
-    <control controlID="BF06D293-6E7A-4C21-AEA4-CF49618B9C83" controlTypeID="Image" x="0" y="239" w="125" h="125" zOrder="5"/>
-    <control controlID="F57EFFC0-A389-4488-A134-B7637284815B" controlTypeID="Image" x="125" y="239" w="125" h="125" zOrder="6"/>
-    <control controlID="C72D24EF-E0D0-4108-8E75-A9FA43B26425" controlTypeID="Image" x="250" y="239" w="125" h="125" zOrder="7"/>
-    <control controlID="EE68EEEF-B946-4577-B96D-CF9A8BB63038" controlTypeID="Image" x="0" y="364" w="125" h="125" zOrder="8"/>
-    <control controlID="3C5B8B4E-E239-4788-AAAE-713324B42062" controlTypeID="Image" x="125" y="364" w="125" h="125" zOrder="9"/>
-    <control controlID="D8ED88DF-F00A-41FB-9FB2-591492349140" controlTypeID="Image" x="250" y="364" w="125" h="125" zOrder="10"/>
-    <control controlID="991656E9-B8DF-486A-8A7C-19A586C4F018" controlTypeID="Image" x="0" y="489" w="125" h="125" zOrder="11"/>
-    <control controlID="8C9AAC79-292B-4E99-93D8-01232B6F5ECF" controlTypeID="Image" x="125" y="489" w="125" h="125" zOrder="12"/>
+    <control controlID="DBB6E511-FA85-4BE9-B638-3C14494A0E42" controlTypeID="Image" x="0" y="114" w="125" h="125" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{FAB5E5DD-08DF-4082-9D7A-0486C2620E3D}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="5BF11D74-1D75-464D-A952-89F76694E31B" controlTypeID="Image" x="126" y="114" w="125" h="125" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{D9D36786-0EC2-43DF-BCC2-F22FE01BD445}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="53ADAF58-3F67-4724-B978-079D14493AD6" controlTypeID="Image" x="250" y="114" w="125" h="125" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{C1D98FEB-A5F2-4EC8-B556-CEA6EF596038}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="BF06D293-6E7A-4C21-AEA4-CF49618B9C83" controlTypeID="Image" x="0" y="239" w="125" h="125" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{2C1B401E-67AE-4441-A8C0-E41C81AA59A0}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="F57EFFC0-A389-4488-A134-B7637284815B" controlTypeID="Image" x="125" y="239" w="125" h="125" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{98AE687E-5A32-4595-AD51-744F4B032A47}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="C72D24EF-E0D0-4108-8E75-A9FA43B26425" controlTypeID="Image" x="250" y="239" w="125" h="125" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{B1DDA8C1-9896-4C82-9C06-169ECABBCEDB}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="95A34040-7FF5-45D8-ADBD-5EC5F50A50F6" controlTypeID="Image" x="0" y="364" w="125" h="125" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{2C1B401E-67AE-4441-A8C0-E41C81AA59A0}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="3C3F0091-B07E-4724-ACEB-4DFC46AABF1D" controlTypeID="Image" x="125" y="364" w="125" h="125" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{98AE687E-5A32-4595-AD51-744F4B032A47}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="EA3D752D-0228-470B-B1B4-FB13D72DAD7A" controlTypeID="Image" x="250" y="364" w="125" h="125" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{B1DDA8C1-9896-4C82-9C06-169ECABBCEDB}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="DBA11695-C0B6-41AC-973A-AC9B2C6FFF4A" controlTypeID="Image" x="0" y="489" w="125" h="125" zOrder="11">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{2C1B401E-67AE-4441-A8C0-E41C81AA59A0}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="AF0AA8A5-CB2B-428F-837C-00E45FC88D10" controlTypeID="Image" x="125" y="489" w="125" h="125" zOrder="12">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" linkType="ltPageLink" isApplyIncludePage="False" title="upload">
+          <area shape="0" alt="" ID="{98AE687E-5A32-4595-AD51-744F4B032A47}" coords="(0,0,125,125)"/>
+        </link>
+      </links>
+    </control>
   </controls>
   <param>
     <backgroundColor>4294967295</backgroundColor>
