@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="0A03076C-E11C-4A94-9194-06BB9A6E7597" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
-  <controls controlCount="8">
+  <controls controlCount="61">
     <control controlID="C81FCF09-7E60-46D9-B621-6288C63DE5D5" controlTypeID="__group__" x="0" y="576" w="375" h="91" zOrder="0">
       <caption>toolbar</caption>
       <groupChildrenDescriptors>
@@ -70,6 +70,222 @@
           <textStyles>[fsItalic]</textStyles>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="EC11BD2A-B216-41BE-A10C-090908DA1A0E" controlTypeID="Search" x="24" y="60" w="327" h="44" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CB106876-80DB-453C-A407-AA78A7A8128D" controlTypeID="LetterNavigation" x="351" y="128" w="24" h="438" zOrder="3">
+      <color>4284900966</color>
+    </control>
+    <control controlID="479F25B4-9AEC-4A6A-82A1-004706D5F7C7" controlTypeID="ScrollView" x="20" y="128" w="321" h="438" zOrder="4">
+      <groupChildrenDescriptors>
+        <control controlID="E9FF8B90-11F8-43ED-A9C6-78E0DAD4E134" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="321" h="803" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="185F316E-A63C-4E68-B7B7-1207C12B76D1" controlTypeID="__group__" x="10" y="20" w="149" h="40" zOrder="0">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="B0DDF100-42F1-44F5-B5DF-39D7A999F756" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="83FAD7CD-B228-47F4-8A55-EE534CB0B098" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1A28EFA2-0625-4AD9-8269-9A7CB5EAC531" controlTypeID="__group__" x="10" y="60" w="149" h="40" zOrder="1">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="030F9055-600C-4BE4-BCFD-ED635056EE6C" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="818297CC-2163-4AB6-B8BB-3FB58BA57A8C" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="10259C49-6294-4FF6-9B49-4E598C4594CA" controlTypeID="__group__" x="10" y="100" w="149" h="40" zOrder="2">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="B626B32F-7E53-4C79-8542-0BF1214A5271" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="2234C4CE-E6CC-4509-A83B-620FFC2C59E4" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="C594DEA7-7BC8-4771-94B5-4312DB5023EA" controlTypeID="__group__" x="10" y="140" w="149" h="40" zOrder="3">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="D6296551-C376-485A-A5A7-32A21F1D531A" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="F8B68BE7-EA04-4A75-8C46-92C0DA30E96A" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="DB4568D5-27CC-4F50-9CAA-0DD6F812DE3C" controlTypeID="__group__" x="10" y="180" w="149" h="40" zOrder="4">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="71E49B3F-A7D3-491A-9B8E-BE354F2EAC2D" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="3610436B-5588-4D05-911C-D3F6FFA04A7C" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="584996DE-483E-4D3A-AE52-D3C4CD3597BF" controlTypeID="__group__" x="10" y="220" w="149" h="40" zOrder="5">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="6D036F49-6F89-4DB0-B88F-AA12F1627F95" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="217FBF6F-F52A-4AEC-AFFC-461734228AFF" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="A2CEEDE2-8250-4824-8DC6-0C52941AA462" controlTypeID="__group__" x="10" y="260" w="149" h="40" zOrder="6">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="6F8F864F-5383-4640-A50A-BBBD5EBFC429" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="DCCC37C8-2201-48BC-A956-3686A567C896" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="E9C61163-E7AF-4562-B101-669E75D1624E" controlTypeID="__group__" x="10" y="300" w="149" h="40" zOrder="7">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="C48DA038-DE5C-4197-9BEF-C3E0F3C32482" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="39BE4058-031F-40E5-B6CA-CCF304481AF7" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="3C24B161-A701-4A84-846F-A9FA8D252916" controlTypeID="__group__" x="10" y="340" w="149" h="40" zOrder="8">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="70B8B56E-0BCE-4C99-AE8F-B182F2761A05" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="AEAD36D1-395A-4760-9864-22110822B21F" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="4FEA41CA-F2E2-4985-BB94-7B1EFFB67E4A" controlTypeID="__group__" x="10" y="380" w="149" h="40" zOrder="9">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="545D556E-2C37-4905-9F3A-9B18F8E5AAF0" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="7888A2DD-0037-42EA-9C94-068085D318C7" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="CB276E19-D580-419B-A679-4E47117999BC" controlTypeID="__group__" x="10" y="420" w="149" h="40" zOrder="10">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="37B254A8-47FD-4C9B-B03F-1F4EAB16C59F" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="F1808F71-2BDC-4CBC-B56D-93D472B31B08" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="FE0D2B11-DFA8-41C9-AD13-18E1E58608EB" controlTypeID="__group__" x="10" y="460" w="149" h="40" zOrder="11">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="3853DDF8-85EE-440E-97F1-F26F5DE3E5A0" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="16A074D3-2B53-4238-A002-8E4BF6B9544D" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1AAB363F-DABA-4FE3-AC5A-0F614BB6E3A5" controlTypeID="__group__" x="10" y="500" w="149" h="40" zOrder="12">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="6E727321-580C-4BD8-A725-891C20DA9C35" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="7056DF6E-A325-40E4-ABC0-916C8EB63A69" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1F223E61-F309-4358-88D2-DFA3207AD9B7" controlTypeID="__group__" x="10" y="540" w="149" h="40" zOrder="13">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="695A4311-6970-487D-904A-9D4292B52545" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="3CC8EF16-0316-4F42-88D7-E0D5B032FFAD" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="73959A94-6836-4A93-9B3A-4835B4CC7CDC" controlTypeID="__group__" x="10" y="580" w="149" h="40" zOrder="14">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="FB33F1C8-3E40-4516-8FC3-D41279EADFF3" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="4375C8F1-6556-4250-A72A-F221E8E2D43C" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="B2B31D76-2D2C-4357-901B-40731190A1C4" controlTypeID="__group__" x="10" y="620" w="149" h="40" zOrder="15">
+              <caption>friend+entry</caption>
+              <groupChildrenDescriptors>
+                <control controlID="5FD4E6BE-679E-4E57-B040-5881592C9D26" controlTypeID="Image" x="0" y="0" w="64" h="40" zOrder="0"/>
+                <control controlID="3CD2C29A-9708-4EBA-B1D5-DE1DDE46A673" controlTypeID="Label" x="105" y="10" w="44" h="19" zOrder="1">
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Friend1</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5C1C1831-D1F0-49E1-B18A-09E01167DD39" controlTypeID="Border" x="0" y="0" w="321" h="438" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
         </control>
       </groupChildrenDescriptors>
     </control>

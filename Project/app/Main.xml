@@ -29,7 +29,7 @@
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
       </images>
     </page>
-    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="False" code="L618SHIlWx" thumbCode="L618SHIlWx" status="psWhite" isfolder="False" isshownode="True">
+    <page name="upload" ID="D3FE97B4-EB4E-45A6-AB27-2F4A18D4B34D" expanded="False" code="KmW32kcYTa" thumbCode="KmW32kcYTa" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
         <image key="2F6462E54FB03278404C95A7DA8E3B6F.svg"/>
@@ -43,20 +43,21 @@
         <image key="D0C064FF6802AB527BCBD865CE47616F.svg"/>
       </images>
     </page>
-    <page name="friend" ID="0A03076C-E11C-4A94-9194-06BB9A6E7597" expanded="True" code="sG4jfRQkgx" thumbCode="sG4jfRQkgx" status="psWhite" isfolder="False" isshownode="True">
+    <page name="friend" ID="0A03076C-E11C-4A94-9194-06BB9A6E7597" expanded="True" code="O43hlJlxqD" thumbCode="O43hlJlxqD" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
         <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
         <image key="9E2074E408AE2704CDB7EA51B170AFB8.svg"/>
       </images>
     </page>
-    <page name="group" ID="AD7DFAFE-5136-4A34-827D-D64B79855656" expanded="False" code="SXsQzbqe74" thumbCode="HbQiGIXzb1" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="group" ID="AD7DFAFE-5136-4A34-827D-D64B79855656" expanded="True" code="SXsQzbqe74" thumbCode="SXsQzbqe74" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="37CEF910808B6C671496C3CA3DF0A1A0.svg"/>
         <image key="CF75DBB601952B6BB4B151C544C1D2C8.svg"/>
         <image key="9E2074E408AE2704CDB7EA51B170AFB8.svg"/>
       </images>
     </page>
+    <page name="chat" ID="9CD7FB03-1269-4682-89FD-2816ABEAAB99" expanded="True" code="5LsTA3E1wW" thumbCode="kslxFg67BY" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
   </pages>
   <trash>
     <page name="Page1" ID="D71CE79B-15EF-4097-AE1D-133057D9E705" expanded="False" code="QzAQkDQHke" thumbCode="IYZc9sDbYE" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
